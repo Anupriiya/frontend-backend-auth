@@ -87,5 +87,5 @@ http://localhost:3000
 
 **Nandivada Prasad**
 
-GitHub: [https://github.com/Nandivada18](https://github.com/Nandivada18)
+GitHub: (https://github.com/Anupriiya)
 
